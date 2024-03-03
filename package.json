@@ -1,0 +1,26 @@
+{
+  "name": "innovate-hub-cyn",
+  "description": "innovate-hub-cyn",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/FerreiraIvana926",
+  "repository": {
+    "url": "https://github.com/FerreiraIvana926/innovate-hub-cyn"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "innovate",
+    "hub",
+    "project"
+  ],
+  "author": "FerreiraIvana926",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
